@@ -1,0 +1,3 @@
+//(1) construct nae destruct yae kwar char chat ka destruct ka code tawe arr lone pee mar a lote lote tel
+//(2) destructor() htae mar parameter yay lo ma ya
+//(3)final keyword so yin inheritance lote lot ma ya
